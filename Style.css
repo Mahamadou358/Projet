@@ -109,3 +109,7 @@ body{
  .progressbar mp3 {
     width: 60%;
   }
+
+  footer{
+    background: black;
+  }
